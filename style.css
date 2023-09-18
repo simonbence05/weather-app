@@ -94,7 +94,6 @@ body{
 .humidity, .wind{
     font-size: 28px;
     margin-top: -6px;
-    margin-right: 10px;
 }
 
 .weather{
